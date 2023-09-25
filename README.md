@@ -4,3 +4,5 @@ This is the python or bash Script file for linux and windows. related to hacking
 "ip_address_changer.py" is a python script file to change the ip address continuosly for .255 value.
 
 i will update everything on upcoming days, wait for it!
+
+it's too basic i know so don't criticize me 😅
