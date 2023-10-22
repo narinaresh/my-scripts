@@ -8,8 +8,9 @@ This is python or bash Script file for linux and windows. related to hacking and
 ```bash
 python ip_address_changer.py --help
 ```
+To run it using argument
 ```bash
-python ip_address_changer.py -i "the interface you need" -t "time delay in second
+python ip_address_changer.py -i "the interface you need" -t "time delay in second"
 ```
 or else you can run normally
 ```bash
