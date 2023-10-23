@@ -36,7 +36,7 @@ while True:
     third_digit += 1
 
     if third_digit > 255:
-        third_digit = 0
+        third_digit = 100
 
     if last_digit > 255:
         last_digit = 0
