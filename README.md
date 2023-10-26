@@ -3,18 +3,25 @@ This is python or bash Script file for linux and windows. related to hacking and
 
 "ip_address_changer.py" is a python script file to change the ip address continuosly upto  **.**.**.255.
 
- for help 
- 
+ help commend on
+ for ip-changer
 ```bash
 python ip_address_changer.py --help
 ```
-To run it using argument
+for mac-changer
 ```bash
-python ip_address_changer.py -i "the interface you need" -t "time delay in second"
+python mac_changer.py --help
 ```
-or else you can run normally
+-------------------------------------------------------------------------------------------------------------
+To run normally
+ for ip-changer
 ```bash
 python ip_address_changer.py
+```
+
+for mac-changer
+```bash
+python mac_changer.py
 ```
 you can choose the interface on input as well as the time delay between every ip changes 
 
