@@ -7,7 +7,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--interface", dest='interface',
                     help="Type of interface [example: eth0, wlan0...]")
 parser.add_argument("-m", "--mac", dest="mac",
-                    help="The MAC address you want to change")
+                    help="The MAC address you want to change in this format [XX:XX:XX:XX:XX:XX] where 'X' is alphanumeric")
 parser.add_argument("-t", "--time", dest="time_of_delay",
                     help="The time delay between MAC changes [in seconds]")
 
